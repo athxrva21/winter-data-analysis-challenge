@@ -1,1 +1,0 @@
-# winter-data-analysis-challenge
