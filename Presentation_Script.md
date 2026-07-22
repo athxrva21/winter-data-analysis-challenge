@@ -1,5 +1,5 @@
 # Presentation Script — "Is Australia Doing Well?"
-**Team O for 4 · Atharva Aher & Mokshithh Kethari · Winter Data Analysis Challenge 2026**
+**Team O for 4 · Atharva Aher (SID 55088718) & Mokshithh Kethari (SID 550809791) · Winter Data Analysis Challenge 2026**
 
 *Runtime ≈ 2:55 (target ≤ 3:00). ~405 words. Deck animations are click-triggered — each **[CLICK]** reveals the next build. Deliver confidently, a touch prosecutorial: you build a verdict, then try to break it.*
 
